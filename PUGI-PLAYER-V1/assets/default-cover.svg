@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
-<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ff3d81"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect width="600" height="600" rx="70" fill="#101119"/><circle cx="300" cy="300" r="190" fill="url(#g)" opacity=".85"/><circle cx="300" cy="300" r="76" fill="#101119"/><path d="M300 112v188a64 64 0 1 0 34 57V200h82v-52h-116z" fill="#fff"/>
-</svg>
