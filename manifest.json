@@ -1,0 +1,13 @@
+{
+  "name": "PUGI PLAYER",
+  "short_name": "PUGI",
+  "description": "PUGI PLAYER - offline music player with bass boost and equalizer.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#090a0f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
